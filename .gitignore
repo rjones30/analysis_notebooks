@@ -1,3 +1,24 @@
+# shell bits and pieces
+.bash_history
+.gitignore
+.gitignore.swp
+.lesshst
+.python_history
+.viminfo
+
+# root files
+*/*.root
+
+# archives
+*/archive
+
+# dask logs
+*.pkl
+
+# csv and dat files
+*.csv
+*.dat
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
